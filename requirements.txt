@@ -1,0 +1,5 @@
+streamlit>=1.30
+Pillow>=10.1
+pandas
+# optional: live Google Play lookups
+# google-play-scraper
